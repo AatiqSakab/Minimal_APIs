@@ -1,0 +1,36 @@
+﻿@Minimal_APIs_HostAddress = http://localhost:5082
+
+GET {{Minimal_APIs_HostAddress}}/products
+
+###
+
+GET {{Minimal_APIs_HostAddress}}/products/2
+
+###
+
+POST {{Minimal_APIs_HostAddress}}/products
+Content-Type: application/json
+{
+  "name": "New Product",
+  "price": 19.99,
+  "category": "Electronics"
+}
+
+###
+
+DELETE {{Minimal_APIs_HostAddress}}/products/1
+
+###
+
+GET {{Minimal_APIs_HostAddress}}/products/2
+
+###
+
+PUT {{Minimal_APIs_HostAddress}}/products/2
+Content-Type: application/json
+{
+  "name": "update Product",
+  "price": 20.00,
+  "category": "Updated"
+}
+###

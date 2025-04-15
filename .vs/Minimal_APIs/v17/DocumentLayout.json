@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Archeron\\Documents\\Documents\\Aatiq\\College\\Assignments\\ASP.NET\\Minimal_APIs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C535E756-E0B0-49CC-B4AA-DA869E727A97}|Minimal_APIs\\Minimal_APIs.csproj|c:\\users\\archeron\\documents\\documents\\aatiq\\college\\assignments\\asp.net\\minimal_apis\\minimal_apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C535E756-E0B0-49CC-B4AA-DA869E727A97}|Minimal_APIs\\Minimal_APIs.csproj|solutionrelative:minimal_apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C535E756-E0B0-49CC-B4AA-DA869E727A97}|Minimal_APIs\\Minimal_APIs.csproj|c:\\users\\archeron\\documents\\documents\\aatiq\\college\\assignments\\asp.net\\minimal_apis\\minimal_apis\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C535E756-E0B0-49CC-B4AA-DA869E727A97}|Minimal_APIs\\Minimal_APIs.csproj|solutionrelative:minimal_apis\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C535E756-E0B0-49CC-B4AA-DA869E727A97}|Minimal_APIs\\Minimal_APIs.csproj|c:\\users\\archeron\\documents\\documents\\aatiq\\college\\assignments\\asp.net\\minimal_apis\\minimal_apis\\minimal_apis.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C535E756-E0B0-49CC-B4AA-DA869E727A97}|Minimal_APIs\\Minimal_APIs.csproj|solutionrelative:minimal_apis\\minimal_apis.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C535E756-E0B0-49CC-B4AA-DA869E727A97}|Minimal_APIs\\Minimal_APIs.csproj|c:\\users\\archeron\\documents\\documents\\aatiq\\college\\assignments\\asp.net\\minimal_apis\\minimal_apis\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C535E756-E0B0-49CC-B4AA-DA869E727A97}|Minimal_APIs\\Minimal_APIs.csproj|solutionrelative:minimal_apis\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C535E756-E0B0-49CC-B4AA-DA869E727A97}|Minimal_APIs\\Minimal_APIs.csproj|c:\\users\\archeron\\documents\\documents\\aatiq\\college\\assignments\\asp.net\\minimal_apis\\minimal_apis\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C535E756-E0B0-49CC-B4AA-DA869E727A97}|Minimal_APIs\\Minimal_APIs.csproj|solutionrelative:minimal_apis\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "C:\\Users\\Archeron\\Documents\\Documents\\Aatiq\\College\\Assignments\\ASP.NET\\Minimal_APIs\\Minimal_APIs\\ProductServices.cs",
+              "RelativeDocumentMoniker": "Minimal_APIs\\ProductServices.cs",
+              "ToolTip": "C:\\Users\\Archeron\\Documents\\Documents\\Aatiq\\College\\Assignments\\ASP.NET\\Minimal_APIs\\Minimal_APIs\\ProductServices.cs",
+              "RelativeToolTip": "Minimal_APIs\\ProductServices.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:51:44.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Archeron\\Documents\\Documents\\Aatiq\\College\\Assignments\\ASP.NET\\Minimal_APIs\\Minimal_APIs\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Minimal_APIs\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Archeron\\Documents\\Documents\\Aatiq\\College\\Assignments\\ASP.NET\\Minimal_APIs\\Minimal_APIs\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Minimal_APIs\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T19:49:07.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Minimal_APIs.http",
+              "DocumentMoniker": "C:\\Users\\Archeron\\Documents\\Documents\\Aatiq\\College\\Assignments\\ASP.NET\\Minimal_APIs\\Minimal_APIs\\Minimal_APIs.http",
+              "RelativeDocumentMoniker": "Minimal_APIs\\Minimal_APIs.http",
+              "ToolTip": "C:\\Users\\Archeron\\Documents\\Documents\\Aatiq\\College\\Assignments\\ASP.NET\\Minimal_APIs\\Minimal_APIs\\Minimal_APIs.http",
+              "RelativeToolTip": "Minimal_APIs\\Minimal_APIs.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-06T01:02:54.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Archeron\\Documents\\Documents\\Aatiq\\College\\Assignments\\ASP.NET\\Minimal_APIs\\Minimal_APIs\\Product.cs",
+              "RelativeDocumentMoniker": "Minimal_APIs\\Product.cs",
+              "ToolTip": "C:\\Users\\Archeron\\Documents\\Documents\\Aatiq\\College\\Assignments\\ASP.NET\\Minimal_APIs\\Minimal_APIs\\Product.cs",
+              "RelativeToolTip": "Minimal_APIs\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:34:34.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Archeron\\Documents\\Documents\\Aatiq\\College\\Assignments\\ASP.NET\\Minimal_APIs\\Minimal_APIs\\Program.cs",
+              "RelativeDocumentMoniker": "Minimal_APIs\\Program.cs",
+              "ToolTip": "C:\\Users\\Archeron\\Documents\\Documents\\Aatiq\\College\\Assignments\\ASP.NET\\Minimal_APIs\\Minimal_APIs\\Program.cs",
+              "RelativeToolTip": "Minimal_APIs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T22:53:35.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
